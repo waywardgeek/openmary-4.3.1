@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marytts-install xmlns="http://mary.dfki.de/installer">
+    <voice gender="female" locale="en-GB" name="dfki-poppy-hsmm"
+        type="hsmm" version="4.2.0">
+        <description>A female en_GB Hidden semi-Markov model voice</description>
+        <license href="http://mary.dfki.de/download/by-nd-3.0.html"/>
+        <package filename="mary-dfki-poppy-hsmm-4.2.0.zip"
+            md5sum="afd362948bde897ca9edb6d7670362c7" size="4381091">
+            <location href="http://mary.dfki.de/download/4.2.0/"/>
+        </package>
+        <depends language="en-GB" version="4.2.0"/>
+    </voice>
+</marytts-install>

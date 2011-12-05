@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marytts-install xmlns="http://mary.dfki.de/installer">
+    <voice gender="male" locale="en-US" name="cmu-bdl-hsmm" type="hsmm" version="4.3.0">
+        <description>A male en_US Hidden semi-Markov model voice</description>
+        <license href="http://mary.dfki.de/download/by-nd-3.0.html"/>
+        <package filename="mary-cmu-bdl-hsmm-4.3.0.zip"
+            md5sum="af75d723b1f3a0d8071aa14da84cec04" size="1016818">
+            <location href="http://mary.dfki.de/download/4.3.0/"/>
+        </package>
+        <depends language="en-US" version="4.3.0"/>
+    </voice>
+</marytts-install>
